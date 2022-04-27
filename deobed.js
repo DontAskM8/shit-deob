@@ -96,7 +96,7 @@
             _0x271023.get = _0x2d1a73,
             _0x4e9eb3.o(_0xe27422, _0x30aac8) || Object.defineProperty(_0xe27422, _0x30aac8, _0x271023);
         }
-        ,
+         ,
         _0x4e9eb3.r = function(_0x24469c) {
             var _0x446e96 = KPSDK_0xce55
               , _0x35efaa = {};
